@@ -1,0 +1,521 @@
+Academic year,Economic Development Region,Institution,International_Domestic,Headcount
+2010/2011,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,030"
+2010/2011,Lower Mainland,University Of British Columbia Vancouver,International,"7,310"
+2010/2011,Lower Mainland,British Columbia Institute Of Technology,Domestic,"40,685"
+2010/2011,Lower Mainland,British Columbia Institute Of Technology,International,"2,305"
+2010/2011,Lower Mainland,Simon Fraser University,Domestic,"28,005"
+2010/2011,Lower Mainland,Simon Fraser University,International,"5,670"
+2010/2011,Lower Mainland,Justice Institute Of British Columbia,Domestic,"28,665"
+2010/2011,Lower Mainland,Justice Institute Of British Columbia,International,145
+2010/2011,Lower Mainland,Douglas College,Domestic,"25,100"
+2010/2011,Lower Mainland,Douglas College,International,"1,195"
+2010/2011,Lower Mainland,Vancouver Community College,Domestic,"23,025"
+2010/2011,Lower Mainland,Vancouver Community College,International,630
+2010/2011,Lower Mainland,Langara College,Domestic,"19,715"
+2010/2011,Lower Mainland,Langara College,International,"1,695"
+2010/2011,Lower Mainland,Kwantlen Polytechnic University,Domestic,"17,525"
+2010/2011,Lower Mainland,Kwantlen Polytechnic University,International,"1,340"
+2010/2011,Lower Mainland,University Of The Fraser Valley,Domestic,"14,325"
+2010/2011,Lower Mainland,University Of The Fraser Valley,International,890
+2010/2011,Lower Mainland,Capilano University,Domestic,"13,675"
+2010/2011,Lower Mainland,Capilano University,International,895
+2010/2011,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"4,455"
+2010/2011,Lower Mainland,Emily Carr University Of Art And Design,International,305
+2010/2011,Vancouver Island and Coast,University Of Victoria,Domestic,"20,450"
+2010/2011,Vancouver Island and Coast,University Of Victoria,International,"1,990"
+2010/2011,Vancouver Island and Coast,Camosun College,Domestic,"19,060"
+2010/2011,Vancouver Island and Coast,Camosun College,International,615
+2010/2011,Vancouver Island and Coast,Vancouver Island University,Domestic,"16,650"
+2010/2011,Vancouver Island and Coast,Vancouver Island University,International,"1,610"
+2010/2011,Vancouver Island and Coast,North Island College,Domestic,"9,760"
+2010/2011,Vancouver Island and Coast,North Island College,International,105
+2010/2011,Vancouver Island and Coast,Royal Roads University,Domestic,"3,445"
+2010/2011,Vancouver Island and Coast,Royal Roads University,International,80
+2010/2011,Thompson Okanagan,Thompson Rivers University,Domestic,"24,215"
+2010/2011,Thompson Okanagan,Thompson Rivers University,International,"2,280"
+2010/2011,Thompson Okanagan,Okanagan College,Domestic,"19,995"
+2010/2011,Thompson Okanagan,Okanagan College,International,580
+2010/2011,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"6,780"
+2010/2011,Thompson Okanagan,University Of British Columbia Okanagan,International,535
+2010/2011,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,360"
+2010/2011,Cariboo,College Of New Caledonia,Domestic,"10,040"
+2010/2011,Thompson Okanagan,Nicola Valley Institute Of Technology,International,
+2010/2011,Cariboo,College Of New Caledonia,International,285
+2010/2011,Cariboo,University Of Northern British Columbia,Domestic,"3,870"
+2010/2011,Cariboo,University Of Northern British Columbia,International,395
+2010/2011,Kootenay,College Of The Rockies,Domestic,"12,330"
+2010/2011,Kootenay,College Of The Rockies,International,190
+2010/2011,Kootenay,Selkirk College,Domestic,"10,450"
+2010/2011,Kootenay,Selkirk College,International,285
+2010/2011,North,Northern Lights College,Domestic,"9,280"
+2010/2011,North,Northern Lights College,International,120
+2010/2011,North,Coast Mountain College,Domestic,"7,000"
+2010/2011,North,Coast Mountain College,International,*
+2011/2012,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,235"
+2011/2012,Lower Mainland,University Of British Columbia Vancouver,International,"8,070"
+2011/2012,Lower Mainland,British Columbia Institute Of Technology,Domestic,"40,875"
+2011/2012,Lower Mainland,British Columbia Institute Of Technology,International,"1,975"
+2011/2012,Lower Mainland,Simon Fraser University,Domestic,"27,635"
+2011/2012,Lower Mainland,Simon Fraser University,International,"6,415"
+2011/2012,Lower Mainland,Justice Institute Of British Columbia,Domestic,"32,525"
+2011/2012,Lower Mainland,Justice Institute Of British Columbia,International,220
+2011/2012,Lower Mainland,Douglas College,Domestic,"23,245"
+2011/2012,Lower Mainland,Douglas College,International,"1,430"
+2011/2012,Lower Mainland,Vancouver Community College,Domestic,"22,580"
+2011/2012,Lower Mainland,Vancouver Community College,International,530
+2011/2012,Lower Mainland,Langara College,Domestic,"19,730"
+2011/2012,Lower Mainland,Langara College,International,"1,635"
+2011/2012,Lower Mainland,Kwantlen Polytechnic University,Domestic,"17,805"
+2011/2012,Lower Mainland,Kwantlen Polytechnic University,International,"1,435"
+2011/2012,Lower Mainland,University Of The Fraser Valley,Domestic,"14,065"
+2011/2012,Lower Mainland,University Of The Fraser Valley,International,895
+2011/2012,Lower Mainland,Capilano University,Domestic,"13,815"
+2011/2012,Lower Mainland,Capilano University,International,800
+2011/2012,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"4,015"
+2011/2012,Lower Mainland,Emily Carr University Of Art And Design,International,335
+2011/2012,Vancouver Island and Coast,University Of Victoria,Domestic,"20,340"
+2011/2012,Vancouver Island and Coast,University Of Victoria,International,"2,280"
+2011/2012,Vancouver Island and Coast,Camosun College,Domestic,"18,715"
+2011/2012,Vancouver Island and Coast,Camosun College,International,625
+2011/2012,Vancouver Island and Coast,Vancouver Island University,Domestic,"15,565"
+2011/2012,Vancouver Island and Coast,Vancouver Island University,International,"1,625"
+2011/2012,Vancouver Island and Coast,North Island College,Domestic,"9,190"
+2011/2012,Vancouver Island and Coast,North Island College,International,110
+2011/2012,Vancouver Island and Coast,Royal Roads University,Domestic,"3,710"
+2011/2012,Vancouver Island and Coast,Royal Roads University,International,170
+2011/2012,Thompson Okanagan,Thompson Rivers University,Domestic,"25,210"
+2011/2012,Thompson Okanagan,Thompson Rivers University,International,"2,470"
+2011/2012,Thompson Okanagan,Okanagan College,Domestic,"19,925"
+2011/2012,Thompson Okanagan,Okanagan College,International,495
+2011/2012,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,535"
+2011/2012,Thompson Okanagan,University Of British Columbia Okanagan,International,605
+2011/2012,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,475"
+2011/2012,Thompson Okanagan,Nicola Valley Institute Of Technology,International,*
+2011/2012,Cariboo,College Of New Caledonia,Domestic,"9,605"
+2011/2012,Cariboo,College Of New Caledonia,International,340
+2011/2012,Cariboo,University Of Northern British Columbia,Domestic,"3,765"
+2011/2012,Cariboo,University Of Northern British Columbia,International,460
+2011/2012,Kootenay,College Of The Rockies,Domestic,"12,605"
+2011/2012,Kootenay,College Of The Rockies,International,195
+2011/2012,Kootenay,Selkirk College,Domestic,"10,715"
+2011/2012,Kootenay,Selkirk College,International,240
+2011/2012,North,Northern Lights College,Domestic,"9,150"
+2011/2012,North,Northern Lights College,International,105
+2011/2012,North,Coast Mountain College,Domestic,"5,660"
+2011/2012,North,Coast Mountain College,International,*
+2012/2013,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,315"
+2012/2013,Lower Mainland,University Of British Columbia Vancouver,International,"8,750"
+2012/2013,Lower Mainland,British Columbia Institute Of Technology,Domestic,"41,085"
+2012/2013,Lower Mainland,British Columbia Institute Of Technology,International,"2,060"
+2012/2013,Lower Mainland,Simon Fraser University,Domestic,"27,350"
+2012/2013,Lower Mainland,Simon Fraser University,International,"6,380"
+2012/2013,Lower Mainland,Justice Institute Of British Columbia,Domestic,"27,740"
+2012/2013,Lower Mainland,Justice Institute Of British Columbia,International,175
+2012/2013,Lower Mainland,Douglas College,Domestic,"21,935"
+2012/2013,Lower Mainland,Douglas College,International,"1,690"
+2012/2013,Lower Mainland,Vancouver Community College,Domestic,"21,510"
+2012/2013,Lower Mainland,Vancouver Community College,International,535
+2012/2013,Lower Mainland,Langara College,Domestic,"18,755"
+2012/2013,Lower Mainland,Langara College,International,"1,760"
+2012/2013,Lower Mainland,Kwantlen Polytechnic University,Domestic,"17,525"
+2012/2013,Lower Mainland,Kwantlen Polytechnic University,International,"1,715"
+2012/2013,Lower Mainland,University Of The Fraser Valley,Domestic,"14,645"
+2012/2013,Lower Mainland,University Of The Fraser Valley,International,"1,060"
+2012/2013,Lower Mainland,Capilano University,Domestic,"13,665"
+2012/2013,Lower Mainland,Capilano University,International,835
+2012/2013,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,770"
+2012/2013,Lower Mainland,Emily Carr University Of Art And Design,International,375
+2012/2013,Vancouver Island and Coast,University Of Victoria,Domestic,"20,180"
+2012/2013,Vancouver Island and Coast,University Of Victoria,International,"2,665"
+2012/2013,Vancouver Island and Coast,Camosun College,Domestic,"17,595"
+2012/2013,Vancouver Island and Coast,Camosun College,International,785
+2012/2013,Vancouver Island and Coast,Vancouver Island University,Domestic,"15,730"
+2012/2013,Vancouver Island and Coast,Vancouver Island University,International,"1,840"
+2012/2013,Vancouver Island and Coast,North Island College,Domestic,"8,925"
+2012/2013,Vancouver Island and Coast,North Island College,International,155
+2012/2013,Vancouver Island and Coast,Royal Roads University,Domestic,"3,475"
+2012/2013,Vancouver Island and Coast,Royal Roads University,International,300
+2012/2013,Thompson Okanagan,Thompson Rivers University,Domestic,"26,250"
+2012/2013,Thompson Okanagan,Thompson Rivers University,International,"2,585"
+2012/2013,Thompson Okanagan,Okanagan College,Domestic,"18,905"
+2012/2013,Thompson Okanagan,Okanagan College,International,510
+2012/2013,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,780"
+2012/2013,Thompson Okanagan,University Of British Columbia Okanagan,International,760
+2012/2013,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,415"
+2012/2013,Cariboo,College Of New Caledonia,Domestic,"8,555"
+2012/2013,Thompson Okanagan,Nicola Valley Institute Of Technology,International,
+2012/2013,Cariboo,College Of New Caledonia,International,385
+2012/2013,Cariboo,University Of Northern British Columbia,Domestic,"3,685"
+2012/2013,Cariboo,University Of Northern British Columbia,International,465
+2012/2013,Kootenay,College Of The Rockies,Domestic,"10,570"
+2012/2013,Kootenay,College Of The Rockies,International,215
+2012/2013,Kootenay,Selkirk College,Domestic,"9,875"
+2012/2013,Kootenay,Selkirk College,International,250
+2012/2013,North,Northern Lights College,Domestic,"8,055"
+2012/2013,North,Northern Lights College,International,165
+2012/2013,North,Coast Mountain College,Domestic,"5,330"
+2012/2013,North,Coast Mountain College,International,*
+2013/2014,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,055"
+2013/2014,Lower Mainland,University Of British Columbia Vancouver,International,"9,790"
+2013/2014,Lower Mainland,British Columbia Institute Of Technology,Domestic,"41,150"
+2013/2014,Lower Mainland,British Columbia Institute Of Technology,International,"2,260"
+2013/2014,Lower Mainland,Simon Fraser University,Domestic,"27,545"
+2013/2014,Lower Mainland,Simon Fraser University,International,"6,395"
+2013/2014,Lower Mainland,Justice Institute Of British Columbia,Domestic,"28,070"
+2013/2014,Lower Mainland,Justice Institute Of British Columbia,International,130
+2013/2014,Lower Mainland,Douglas College,Domestic,"22,100"
+2013/2014,Lower Mainland,Douglas College,International,"1,950"
+2013/2014,Lower Mainland,Langara College,Domestic,"18,350"
+2013/2014,Lower Mainland,Langara College,International,"2,065"
+2013/2014,Lower Mainland,Vancouver Community College,Domestic,"19,415"
+2013/2014,Lower Mainland,Vancouver Community College,International,535
+2013/2014,Lower Mainland,Kwantlen Polytechnic University,Domestic,"17,440"
+2013/2014,Lower Mainland,Kwantlen Polytechnic University,International,"1,965"
+2013/2014,Lower Mainland,University Of The Fraser Valley,Domestic,"13,715"
+2013/2014,Lower Mainland,University Of The Fraser Valley,International,905
+2013/2014,Lower Mainland,Capilano University,Domestic,"12,780"
+2013/2014,Lower Mainland,Capilano University,International,850
+2013/2014,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,520"
+2013/2014,Lower Mainland,Emily Carr University Of Art And Design,International,400
+2013/2014,Vancouver Island and Coast,University Of Victoria,Domestic,"20,350"
+2013/2014,Vancouver Island and Coast,University Of Victoria,International,"3,150"
+2013/2014,Vancouver Island and Coast,Camosun College,Domestic,"17,240"
+2013/2014,Vancouver Island and Coast,Camosun College,International,"1,150"
+2013/2014,Vancouver Island and Coast,Vancouver Island University,Domestic,"14,955"
+2013/2014,Vancouver Island and Coast,Vancouver Island University,International,"1,885"
+2013/2014,Vancouver Island and Coast,North Island College,Domestic,"8,605"
+2013/2014,Vancouver Island and Coast,North Island College,International,230
+2013/2014,Vancouver Island and Coast,Royal Roads University,Domestic,"3,380"
+2013/2014,Vancouver Island and Coast,Royal Roads University,International,390
+2013/2014,Thompson Okanagan,Thompson Rivers University,Domestic,"27,165"
+2013/2014,Thompson Okanagan,Thompson Rivers University,International,"2,740"
+2013/2014,Thompson Okanagan,Okanagan College,Domestic,"18,435"
+2013/2014,Thompson Okanagan,Okanagan College,International,795
+2013/2014,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,775"
+2013/2014,Thompson Okanagan,University Of British Columbia Okanagan,International,875
+2013/2014,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,505"
+2013/2014,Thompson Okanagan,Nicola Valley Institute Of Technology,International,20
+2013/2014,Cariboo,College Of New Caledonia,Domestic,"9,125"
+2013/2014,Cariboo,College Of New Caledonia,International,390
+2013/2014,Cariboo,University Of Northern British Columbia,Domestic,"3,555"
+2013/2014,Cariboo,University Of Northern British Columbia,International,465
+2013/2014,Kootenay,Selkirk College,Domestic,"11,185"
+2013/2014,Kootenay,Selkirk College,International,345
+2013/2014,Kootenay,College Of The Rockies,Domestic,"10,325"
+2013/2014,Kootenay,College Of The Rockies,International,380
+2013/2014,North,Northern Lights College,Domestic,"7,400"
+2013/2014,North,Northern Lights College,International,230
+2013/2014,North,Coast Mountain College,Domestic,"5,270"
+2013/2014,North,Coast Mountain College,International,*
+2014/2015,Lower Mainland,University Of British Columbia Vancouver,Domestic,"42,910"
+2014/2015,Lower Mainland,University Of British Columbia Vancouver,International,"11,180"
+2014/2015,Lower Mainland,British Columbia Institute Of Technology,Domestic,"41,700"
+2014/2015,Lower Mainland,British Columbia Institute Of Technology,International,"2,590"
+2014/2015,Lower Mainland,Simon Fraser University,Domestic,"26,945"
+2014/2015,Lower Mainland,Simon Fraser University,International,"6,600"
+2014/2015,Lower Mainland,Justice Institute Of British Columbia,Domestic,"30,575"
+2014/2015,Lower Mainland,Justice Institute Of British Columbia,International,425
+2014/2015,Lower Mainland,Douglas College,Domestic,"21,685"
+2014/2015,Lower Mainland,Douglas College,International,"2,175"
+2014/2015,Lower Mainland,Langara College,Domestic,"17,465"
+2014/2015,Lower Mainland,Langara College,International,"2,945"
+2014/2015,Lower Mainland,Kwantlen Polytechnic University,Domestic,"17,210"
+2014/2015,Lower Mainland,Kwantlen Polytechnic University,International,"2,245"
+2014/2015,Lower Mainland,Vancouver Community College,Domestic,"16,130"
+2014/2015,Lower Mainland,Vancouver Community College,International,595
+2014/2015,Lower Mainland,University Of The Fraser Valley,Domestic,"13,295"
+2014/2015,Lower Mainland,University Of The Fraser Valley,International,"1,055"
+2014/2015,Lower Mainland,Capilano University,Domestic,"11,200"
+2014/2015,Lower Mainland,Capilano University,International,995
+2014/2015,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,360"
+2014/2015,Lower Mainland,Emily Carr University Of Art And Design,International,465
+2014/2015,Vancouver Island and Coast,University Of Victoria,Domestic,"20,065"
+2014/2015,Vancouver Island and Coast,University Of Victoria,International,"3,765"
+2014/2015,Vancouver Island and Coast,Camosun College,Domestic,"17,040"
+2014/2015,Vancouver Island and Coast,Camosun College,International,"1,510"
+2014/2015,Vancouver Island and Coast,Vancouver Island University,Domestic,"13,935"
+2014/2015,Vancouver Island and Coast,Vancouver Island University,International,"2,130"
+2014/2015,Vancouver Island and Coast,North Island College,Domestic,"8,195"
+2014/2015,Vancouver Island and Coast,North Island College,International,295
+2014/2015,Vancouver Island and Coast,Royal Roads University,Domestic,"3,465"
+2014/2015,Vancouver Island and Coast,Royal Roads University,International,495
+2014/2015,Thompson Okanagan,Thompson Rivers University,Domestic,"26,855"
+2014/2015,Thompson Okanagan,Thompson Rivers University,International,"2,885"
+2014/2015,Thompson Okanagan,Okanagan College,Domestic,"18,280"
+2014/2015,Thompson Okanagan,Okanagan College,International,935
+2014/2015,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,450"
+2014/2015,Thompson Okanagan,University Of British Columbia Okanagan,International,980
+2014/2015,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,365"
+2014/2015,Thompson Okanagan,Nicola Valley Institute Of Technology,International,95
+2014/2015,Cariboo,College Of New Caledonia,Domestic,"8,105"
+2014/2015,Cariboo,College Of New Caledonia,International,460
+2014/2015,Cariboo,University Of Northern British Columbia,Domestic,"3,365"
+2014/2015,Cariboo,University Of Northern British Columbia,International,425
+2014/2015,Kootenay,Selkirk College,Domestic,"11,480"
+2014/2015,Kootenay,Selkirk College,International,570
+2014/2015,Kootenay,College Of The Rockies,Domestic,"9,805"
+2014/2015,Kootenay,College Of The Rockies,International,380
+2014/2015,North,Northern Lights College,Domestic,"7,010"
+2014/2015,North,Northern Lights College,International,435
+2014/2015,North,Coast Mountain College,Domestic,"5,125"
+2014/2015,North,Coast Mountain College,International,*
+2015/2016,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,420"
+2015/2016,Lower Mainland,University Of British Columbia Vancouver,International,"12,330"
+2015/2016,Lower Mainland,British Columbia Institute Of Technology,Domestic,"42,020"
+2015/2016,Lower Mainland,British Columbia Institute Of Technology,International,"3,430"
+2015/2016,Lower Mainland,Simon Fraser University,Domestic,"26,605"
+2015/2016,Lower Mainland,Simon Fraser University,International,"6,800"
+2015/2016,Lower Mainland,Justice Institute Of British Columbia,Domestic,"25,570"
+2015/2016,Lower Mainland,Justice Institute Of British Columbia,International,705
+2015/2016,Lower Mainland,Douglas College,Domestic,"21,310"
+2015/2016,Lower Mainland,Douglas College,International,"2,515"
+2015/2016,Lower Mainland,Langara College,Domestic,"18,075"
+2015/2016,Lower Mainland,Langara College,International,"4,065"
+2015/2016,Lower Mainland,Kwantlen Polytechnic University,Domestic,"17,125"
+2015/2016,Lower Mainland,Kwantlen Polytechnic University,International,"2,290"
+2015/2016,Lower Mainland,Vancouver Community College,Domestic,"14,855"
+2015/2016,Lower Mainland,Vancouver Community College,International,750
+2015/2016,Lower Mainland,University Of The Fraser Valley,Domestic,"13,185"
+2015/2016,Lower Mainland,University Of The Fraser Valley,International,"1,115"
+2015/2016,Lower Mainland,Capilano University,Domestic,"10,050"
+2015/2016,Lower Mainland,Capilano University,International,"1,140"
+2015/2016,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,535"
+2015/2016,Lower Mainland,Emily Carr University Of Art And Design,International,480
+2015/2016,Vancouver Island and Coast,University Of Victoria,Domestic,"20,100"
+2015/2016,Vancouver Island and Coast,University Of Victoria,International,"4,000"
+2015/2016,Vancouver Island and Coast,Camosun College,Domestic,"17,720"
+2015/2016,Vancouver Island and Coast,Camosun College,International,"1,630"
+2015/2016,Vancouver Island and Coast,Vancouver Island University,Domestic,"12,755"
+2015/2016,Vancouver Island and Coast,Vancouver Island University,International,"2,070"
+2015/2016,Vancouver Island and Coast,North Island College,Domestic,"8,025"
+2015/2016,Vancouver Island and Coast,North Island College,International,350
+2015/2016,Vancouver Island and Coast,Royal Roads University,Domestic,"3,565"
+2015/2016,Vancouver Island and Coast,Royal Roads University,International,595
+2015/2016,Thompson Okanagan,Thompson Rivers University,Domestic,"27,190"
+2015/2016,Thompson Okanagan,Thompson Rivers University,International,"3,210"
+2015/2016,Thompson Okanagan,Okanagan College,Domestic,"18,580"
+2015/2016,Thompson Okanagan,Okanagan College,International,"1,080"
+2015/2016,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,520"
+2015/2016,Thompson Okanagan,University Of British Columbia Okanagan,International,"1,095"
+2015/2016,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,285"
+2015/2016,Thompson Okanagan,Nicola Valley Institute Of Technology,International,*
+2015/2016,Cariboo,College Of New Caledonia,Domestic,"7,965"
+2015/2016,Cariboo,College Of New Caledonia,International,515
+2015/2016,Cariboo,University Of Northern British Columbia,Domestic,"3,240"
+2015/2016,Cariboo,University Of Northern British Columbia,International,350
+2015/2016,Kootenay,Selkirk College,Domestic,"11,765"
+2015/2016,Kootenay,Selkirk College,International,810
+2015/2016,Kootenay,College Of The Rockies,Domestic,"9,490"
+2015/2016,Kootenay,College Of The Rockies,International,385
+2015/2016,North,Northern Lights College,Domestic,"5,550"
+2015/2016,North,Northern Lights College,International,505
+2015/2016,North,Coast Mountain College,Domestic,"4,690"
+2015/2016,North,Coast Mountain College,International,15
+2016/2017,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,710"
+2016/2017,Lower Mainland,University Of British Columbia Vancouver,International,"13,540"
+2016/2017,Lower Mainland,British Columbia Institute Of Technology,Domestic,"41,540"
+2016/2017,Lower Mainland,British Columbia Institute Of Technology,International,"4,265"
+2016/2017,Lower Mainland,Simon Fraser University,Domestic,"26,680"
+2016/2017,Lower Mainland,Simon Fraser University,International,"7,400"
+2016/2017,Lower Mainland,Justice Institute Of British Columbia,Domestic,"25,370"
+2016/2017,Lower Mainland,Justice Institute Of British Columbia,International,615
+2016/2017,Lower Mainland,Douglas College,Domestic,"21,305"
+2016/2017,Lower Mainland,Douglas College,International,"3,070"
+2016/2017,Lower Mainland,Langara College,Domestic,"16,940"
+2016/2017,Lower Mainland,Langara College,International,"5,985"
+2016/2017,Lower Mainland,Kwantlen Polytechnic University,Domestic,"16,645"
+2016/2017,Lower Mainland,Kwantlen Polytechnic University,International,"3,185"
+2016/2017,Lower Mainland,University Of The Fraser Valley,Domestic,"13,190"
+2016/2017,Lower Mainland,University Of The Fraser Valley,International,"1,500"
+2016/2017,Lower Mainland,Vancouver Community College,Domestic,"13,785"
+2016/2017,Lower Mainland,Vancouver Community College,International,905
+2016/2017,Lower Mainland,Capilano University,Domestic,"8,410"
+2016/2017,Lower Mainland,Capilano University,International,"1,410"
+2016/2017,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,355"
+2016/2017,Lower Mainland,Emily Carr University Of Art And Design,International,540
+2016/2017,Vancouver Island and Coast,University Of Victoria,Domestic,"20,065"
+2016/2017,Vancouver Island and Coast,University Of Victoria,International,"4,080"
+2016/2017,Vancouver Island and Coast,Camosun College,Domestic,"17,480"
+2016/2017,Vancouver Island and Coast,Camosun College,International,"1,990"
+2016/2017,Vancouver Island and Coast,Vancouver Island University,Domestic,"12,720"
+2016/2017,Vancouver Island and Coast,Vancouver Island University,International,"2,075"
+2016/2017,Vancouver Island and Coast,North Island College,Domestic,"7,685"
+2016/2017,Vancouver Island and Coast,North Island College,International,370
+2016/2017,Vancouver Island and Coast,Royal Roads University,Domestic,"3,720"
+2016/2017,Vancouver Island and Coast,Royal Roads University,International,605
+2016/2017,Thompson Okanagan,Thompson Rivers University,Domestic,"28,010"
+2016/2017,Thompson Okanagan,Thompson Rivers University,International,"3,930"
+2016/2017,Thompson Okanagan,Okanagan College,Domestic,"19,115"
+2016/2017,Thompson Okanagan,Okanagan College,International,"1,485"
+2016/2017,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,665"
+2016/2017,Thompson Okanagan,University Of British Columbia Okanagan,International,"1,275"
+2016/2017,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,220"
+2016/2017,Thompson Okanagan,Nicola Valley Institute Of Technology,International,*
+2016/2017,Cariboo,College Of New Caledonia,Domestic,"7,240"
+2016/2017,Cariboo,College Of New Caledonia,International,925
+2016/2017,Cariboo,University Of Northern British Columbia,Domestic,"3,415"
+2016/2017,Cariboo,University Of Northern British Columbia,International,385
+2016/2017,Kootenay,Selkirk College,Domestic,"10,365"
+2016/2017,Kootenay,Selkirk College,International,965
+2016/2017,Kootenay,College Of The Rockies,Domestic,"9,800"
+2016/2017,Kootenay,College Of The Rockies,International,430
+2016/2017,North,Coast Mountain College,Domestic,"4,125"
+2016/2017,North,Coast Mountain College,International,25
+2016/2017,North,Northern Lights College,Domestic,"3,380"
+2016/2017,North,Northern Lights College,International,670
+2017/2018,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,520"
+2017/2018,Lower Mainland,University Of British Columbia Vancouver,International,"15,120"
+2017/2018,Lower Mainland,British Columbia Institute Of Technology,Domestic,"41,280"
+2017/2018,Lower Mainland,British Columbia Institute Of Technology,International,"4,610"
+2017/2018,Lower Mainland,Simon Fraser University,Domestic,"26,650"
+2017/2018,Lower Mainland,Simon Fraser University,International,"7,565"
+2017/2018,Lower Mainland,Justice Institute Of British Columbia,Domestic,"27,420"
+2017/2018,Lower Mainland,Justice Institute Of British Columbia,International,285
+2017/2018,Lower Mainland,Douglas College,Domestic,"20,975"
+2017/2018,Lower Mainland,Douglas College,International,"4,240"
+2017/2018,Lower Mainland,Kwantlen Polytechnic University,Domestic,"16,900"
+2017/2018,Lower Mainland,Kwantlen Polytechnic University,International,"5,935"
+2017/2018,Lower Mainland,Langara College,Domestic,"15,810"
+2017/2018,Lower Mainland,Langara College,International,"6,950"
+2017/2018,Lower Mainland,Vancouver Community College,Domestic,"13,890"
+2017/2018,Lower Mainland,Vancouver Community College,International,"1,260"
+2017/2018,Lower Mainland,University Of The Fraser Valley,Domestic,"13,195"
+2017/2018,Lower Mainland,University Of The Fraser Valley,International,"1,915"
+2017/2018,Lower Mainland,Capilano University,Domestic,"8,115"
+2017/2018,Lower Mainland,Capilano University,International,"2,070"
+2017/2018,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,000"
+2017/2018,Lower Mainland,Emily Carr University Of Art And Design,International,570
+2017/2018,Vancouver Island and Coast,University Of Victoria,Domestic,"19,900"
+2017/2018,Vancouver Island and Coast,University Of Victoria,International,"4,250"
+2017/2018,Vancouver Island and Coast,Camosun College,Domestic,"17,040"
+2017/2018,Vancouver Island and Coast,Camosun College,International,"2,085"
+2017/2018,Vancouver Island and Coast,Vancouver Island University,Domestic,"12,485"
+2017/2018,Vancouver Island and Coast,Vancouver Island University,International,"2,275"
+2017/2018,Vancouver Island and Coast,North Island College,Domestic,"7,490"
+2017/2018,Vancouver Island and Coast,North Island College,International,555
+2017/2018,Vancouver Island and Coast,Royal Roads University,Domestic,"3,805"
+2017/2018,Vancouver Island and Coast,Royal Roads University,International,635
+2017/2018,Thompson Okanagan,Thompson Rivers University,Domestic,"28,530"
+2017/2018,Thompson Okanagan,Thompson Rivers University,International,"5,680"
+2017/2018,Thompson Okanagan,Okanagan College,Domestic,"18,930"
+2017/2018,Thompson Okanagan,Okanagan College,International,"1,715"
+2017/2018,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"7,790"
+2017/2018,Thompson Okanagan,University Of British Columbia Okanagan,International,"1,520"
+2017/2018,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,285"
+2017/2018,Thompson Okanagan,Nicola Valley Institute Of Technology,International,*
+2017/2018,Cariboo,College Of New Caledonia,Domestic,"7,190"
+2017/2018,Cariboo,College Of New Caledonia,International,"1,445"
+2017/2018,Cariboo,University Of Northern British Columbia,Domestic,"3,450"
+2017/2018,Cariboo,University Of Northern British Columbia,International,380
+2017/2018,Kootenay,Selkirk College,Domestic,"9,560"
+2017/2018,Kootenay,Selkirk College,International,"1,340"
+2017/2018,Kootenay,College Of The Rockies,Domestic,"9,925"
+2017/2018,Kootenay,College Of The Rockies,International,590
+2017/2018,North,Coast Mountain College,Domestic,"3,625"
+2017/2018,North,Coast Mountain College,International,140
+2017/2018,North,Northern Lights College,Domestic,"2,700"
+2017/2018,North,Northern Lights College,International,655
+2018/2019,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,300"
+2018/2019,Lower Mainland,University Of British Columbia Vancouver,International,"15,865"
+2018/2019,Lower Mainland,British Columbia Institute Of Technology,Domestic,"39,530"
+2018/2019,Lower Mainland,British Columbia Institute Of Technology,International,"6,030"
+2018/2019,Lower Mainland,Simon Fraser University,Domestic,"26,335"
+2018/2019,Lower Mainland,Simon Fraser University,International,"8,030"
+2018/2019,Lower Mainland,Justice Institute Of British Columbia,Domestic,"36,420"
+2018/2019,Lower Mainland,Justice Institute Of British Columbia,International,370
+2018/2019,Lower Mainland,Douglas College,Domestic,"20,685"
+2018/2019,Lower Mainland,Douglas College,International,"4,625"
+2018/2019,Lower Mainland,Kwantlen Polytechnic University,Domestic,"16,605"
+2018/2019,Lower Mainland,Kwantlen Polytechnic University,International,"4,965"
+2018/2019,Lower Mainland,Langara College,Domestic,"15,645"
+2018/2019,Lower Mainland,Langara College,International,"7,160"
+2018/2019,Lower Mainland,Vancouver Community College,Domestic,"13,895"
+2018/2019,Lower Mainland,Vancouver Community College,International,"1,620"
+2018/2019,Lower Mainland,University Of The Fraser Valley,Domestic,"13,540"
+2018/2019,Lower Mainland,University Of The Fraser Valley,International,"2,350"
+2018/2019,Lower Mainland,Capilano University,Domestic,"7,650"
+2018/2019,Lower Mainland,Capilano University,International,"2,895"
+2018/2019,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"3,000"
+2018/2019,Lower Mainland,Emily Carr University Of Art And Design,International,575
+2018/2019,Vancouver Island and Coast,University Of Victoria,Domestic,"19,850"
+2018/2019,Vancouver Island and Coast,University Of Victoria,International,"4,380"
+2018/2019,Vancouver Island and Coast,Camosun College,Domestic,"19,385"
+2018/2019,Vancouver Island and Coast,Camosun College,International,"2,085"
+2018/2019,Vancouver Island and Coast,Vancouver Island University,Domestic,"12,010"
+2018/2019,Vancouver Island and Coast,Vancouver Island University,International,"2,565"
+2018/2019,Vancouver Island and Coast,North Island College,Domestic,"7,650"
+2018/2019,Vancouver Island and Coast,North Island College,International,565
+2018/2019,Vancouver Island and Coast,Royal Roads University,Domestic,"3,600"
+2018/2019,Vancouver Island and Coast,Royal Roads University,International,835
+2018/2019,Thompson Okanagan,Thompson Rivers University,Domestic,"29,230"
+2018/2019,Thompson Okanagan,Thompson Rivers University,International,"6,400"
+2018/2019,Thompson Okanagan,Okanagan College,Domestic,"19,485"
+2018/2019,Thompson Okanagan,Okanagan College,International,"1,910"
+2018/2019,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"8,250"
+2018/2019,Thompson Okanagan,University Of British Columbia Okanagan,International,"1,885"
+2018/2019,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,500"
+2018/2019,Thompson Okanagan,Nicola Valley Institute Of Technology,International,10
+2018/2019,Cariboo,College Of New Caledonia,Domestic,"6,545"
+2018/2019,Cariboo,College Of New Caledonia,International,"1,755"
+2018/2019,Cariboo,University Of Northern British Columbia,Domestic,"3,590"
+2018/2019,Cariboo,University Of Northern British Columbia,International,455
+2018/2019,Kootenay,Selkirk College,Domestic,"9,120"
+2018/2019,Kootenay,Selkirk College,International,"1,455"
+2018/2019,Kootenay,College Of The Rockies,Domestic,"10,215"
+2018/2019,Kootenay,College Of The Rockies,International,630
+2018/2019,North,Coast Mountain College,Domestic,"3,115"
+2018/2019,North,Coast Mountain College,International,280
+2018/2019,North,Northern Lights College,Domestic,"2,675"
+2018/2019,North,Northern Lights College,International,730
+2019/2020,Lower Mainland,University Of British Columbia Vancouver,Domestic,"43,935"
+2019/2020,Lower Mainland,University Of British Columbia Vancouver,International,"16,635"
+2019/2020,Lower Mainland,British Columbia Institute Of Technology,Domestic,"37,470"
+2019/2020,Lower Mainland,British Columbia Institute Of Technology,International,"5,920"
+2019/2020,Lower Mainland,Simon Fraser University,Domestic,"25,795"
+2019/2020,Lower Mainland,Simon Fraser University,International,"8,260"
+2019/2020,Lower Mainland,Justice Institute Of British Columbia,Domestic,"29,460"
+2019/2020,Lower Mainland,Justice Institute Of British Columbia,International,"1,610"
+2019/2020,Lower Mainland,Douglas College,Domestic,"20,415"
+2019/2020,Lower Mainland,Douglas College,International,"4,540"
+2019/2020,Lower Mainland,Kwantlen Polytechnic University,Domestic,"15,495"
+2019/2020,Lower Mainland,Kwantlen Polytechnic University,International,"5,135"
+2019/2020,Lower Mainland,Langara College,Domestic,"14,825"
+2019/2020,Lower Mainland,Langara College,International,"6,435"
+2019/2020,Lower Mainland,Vancouver Community College,Domestic,"12,425"
+2019/2020,Lower Mainland,Vancouver Community College,International,"2,020"
+2019/2020,Lower Mainland,University Of The Fraser Valley,Domestic,"12,830"
+2019/2020,Lower Mainland,University Of The Fraser Valley,International,"2,235"
+2019/2020,Lower Mainland,Capilano University,Domestic,251
+2019/2020,Lower Mainland,Capilano University,International,"3,140"
+2019/2020,Lower Mainland,Emily Carr University Of Art And Design,Domestic,"2,810"
+2019/2020,Lower Mainland,Emily Carr University Of Art And Design,International,605
+2019/2020,Vancouver Island and Coast,University Of Victoria,Domestic,"20,000"
+2019/2020,Vancouver Island and Coast,University Of Victoria,International,"4,450"
+2019/2020,Vancouver Island and Coast,Camosun College,Domestic,"14,905"
+2019/2020,Vancouver Island and Coast,Camosun College,International,"1,980"
+2019/2020,Vancouver Island and Coast,Vancouver Island University,Domestic,"11,725"
+2019/2020,Vancouver Island and Coast,Vancouver Island University,International,"2,115"
+2019/2020,Vancouver Island and Coast,North Island College,Domestic,"6,620"
+2019/2020,Vancouver Island and Coast,North Island College,International,580
+2019/2020,Vancouver Island and Coast,Royal Roads University,Domestic,"3,690"
+2019/2020,Vancouver Island and Coast,Royal Roads University,International,885
+2019/2020,Thompson Okanagan,Thompson Rivers University,Domestic,"27,925"
+2019/2020,Thompson Okanagan,Thompson Rivers University,International,"6,925"
+2019/2020,Thompson Okanagan,Okanagan College,Domestic,"15,760"
+2019/2020,Thompson Okanagan,Okanagan College,International,"1,980"
+2019/2020,Thompson Okanagan,University Of British Columbia Okanagan,Domestic,"8,680"
+2019/2020,Thompson Okanagan,University Of British Columbia Okanagan,International,"2,210"
+2019/2020,Thompson Okanagan,Nicola Valley Institute Of Technology,Domestic,"1,465"
+2019/2020,Thompson Okanagan,Nicola Valley Institute Of Technology,International,15
+2019/2020,Cariboo,College Of New Caledonia,Domestic,"5,275"
+2019/2020,Cariboo,College Of New Caledonia,International,"2,000"
+2019/2020,Cariboo,University Of Northern British Columbia,Domestic,"3,425"
+2019/2020,Cariboo,University Of Northern British Columbia,International,470
+2019/2020,Kootenay,Selkirk College,Domestic,"7,225"
+2019/2020,Kootenay,Selkirk College,International,"1,295"
+2019/2020,Kootenay,College Of The Rockies,Domestic,"7,175"
+2019/2020,Kootenay,College Of The Rockies,International,490
+2019/2020,North,Coast Mountain College,Domestic,"2,110"
+2019/2020,North,Coast Mountain College,International,395
+2019/2020,North,Northern Lights College,Domestic,"2,395"
+2019/2020,North,Northern Lights College,International,630
